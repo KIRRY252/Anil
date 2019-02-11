@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="FREE CRM TEST AUTOMATION">
+    <test name="FREE CRM APP Login TESTCASES">
+        <classes>
+            <class name="com.crm.qa.testcases.LoginpageTest"> </class>
+            
+             
+            
+            
+            
+        </classes>
+    </test>
+    </suite>
